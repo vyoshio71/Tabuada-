@@ -1,5 +1,5 @@
 # Calculadora
-Calculadora WEB.
+- Calculadora WEB.
 -------------------------------------------
 
 # Tecnologias
